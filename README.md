@@ -36,4 +36,4 @@ Este repositorio utiliza una estrategia de trabajo basada en **tres ramas princi
 
 ---
 
-📌 **Nota:** Antes de hacer merge a `main`, se recomienda revisar el código y asegurarse de que todo funciona correctamente.
+📌 **Nota:** Antes de hacer merge a `main`, se recomienda revisar el código y asegurarse de que todo funciona correctamente, y avisar al compañero antes de subirlo para que no haya conflictos.
